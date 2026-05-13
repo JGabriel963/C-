@@ -1,0 +1,6 @@
+@PetfolioAPI_HostAddress = http://localhost:5147
+
+GET {{PetfolioAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
