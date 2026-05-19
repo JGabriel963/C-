@@ -1,5 +1,5 @@
 ﻿using Petfolio.Communication.Requests;
-using Petfolio.Communication.Responses;
+using Petfolio.Communication.Responses.Pet;
 
 namespace Petfolio.Application.UseCases.Pet.Register;
 

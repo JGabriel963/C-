@@ -1,4 +1,4 @@
-﻿using Petfolio.Communication.Responses;
+﻿using Petfolio.Communication.Responses.Pet;
 
 namespace Petfolio.Application.UseCases.Pet.GetAll;
 

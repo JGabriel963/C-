@@ -4,7 +4,8 @@ using Petfolio.Application.UseCases.Pet.GetAll;
 using Petfolio.Application.UseCases.Pet.GetById;
 using Petfolio.Application.UseCases.Pet.Register;
 using Petfolio.Communication.Requests;
-using Petfolio.Communication.Responses;
+using Petfolio.Communication.Responses.Errors;
+using Petfolio.Communication.Responses.Pet;
 
 namespace Petfolio.API.Controllers;
 

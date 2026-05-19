@@ -10,4 +10,10 @@
     <ProjectReference Include="..\Petfolio.Communication\Petfolio.Communication.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="UseCases\Task\GetById\" />
+    <Folder Include="UseCases\Task\Delete\" />
+    <Folder Include="UseCases\Task\Update\" />
+  </ItemGroup>
+
 </Project>

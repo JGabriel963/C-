@@ -1,4 +1,4 @@
-﻿using Petfolio.Communication.Responses;
+﻿using Petfolio.Communication.Responses.Pet;
 using System;
 using System.Collections.Generic;
 using System.Text;
