@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/.docker/">
+    <File Path="docker-compose.yml" />
+  </Folder>
   <Folder Name="/src/">
     <Project Path="src/CashFlow.API/CashFlow.API.csproj" />
     <Project Path="src/CashFlow.Application/CashFlow.Application.csproj" />
@@ -8,6 +11,7 @@
     <Project Path="src/CashFlow.Infrastructure/CashFlow.Infrastructure.csproj" />
   </Folder>
   <Folder Name="/tests/">
+    <Project Path="tests/CommonTestUtilities/CommonTestUtilities.csproj" Id="d15c1384-97bf-447b-a61c-78a81a286d1d" />
     <Project Path="tests/Validators.Tests/Validators.Tests.csproj" Id="03a95a45-d7b2-4ff4-b113-ba4ba6a78fce" />
   </Folder>
 </Solution>
