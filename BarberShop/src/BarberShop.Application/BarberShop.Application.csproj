@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BarberShop.Communication\BarberShop.Communication.csproj" />
+    <ProjectReference Include="..\BarberShop.Domain\BarberShop.Domain.csproj" />
+    <ProjectReference Include="..\BarberShop.Exception\BarberShop.Exception.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="UseCase\Invoices\GetAll\" />
+    <Folder Include="UseCase\Invoices\Get\" />
+    <Folder Include="UseCase\Invoices\Delete\" />
+    <Folder Include="UseCase\Invoices\Update\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Configuration" Version="11.0.0-preview.4.26230.115" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="11.0.0-preview.4.26230.115" />
+  </ItemGroup>
+
+</Project>

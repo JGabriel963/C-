@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "BarberShop.API.Controllers.BillingsController",
+    "Method": "Register",
+    "RelativePath": "api/billings",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "BarberShop.Communication.Requests.RequestInvoiceJson",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "BarberShop.Communication.Responses.ResponseRegisteredInvoiceJson",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  }
+]

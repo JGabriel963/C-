@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joaog\\OneDrive\\Desktop\\Projetos\\C#\\BarberShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE43E094-E803-9F21-BAA8-3CBD28CDC2D2}|src\\BarberShop.Infrastructure\\BarberShop.Infrastructure.csproj|c:\\users\\joaog\\onedrive\\desktop\\projetos\\c#\\barbershop\\src\\barbershop.infrastructure\\dependencyinjectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE43E094-E803-9F21-BAA8-3CBD28CDC2D2}|src\\BarberShop.Infrastructure\\BarberShop.Infrastructure.csproj|solutionrelative:src\\barbershop.infrastructure\\dependencyinjectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE43E094-E803-9F21-BAA8-3CBD28CDC2D2}|src\\BarberShop.Infrastructure\\BarberShop.Infrastructure.csproj|c:\\users\\joaog\\onedrive\\desktop\\projetos\\c#\\barbershop\\src\\barbershop.infrastructure\\dataaccess\\repositories\\invoicesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE43E094-E803-9F21-BAA8-3CBD28CDC2D2}|src\\BarberShop.Infrastructure\\BarberShop.Infrastructure.csproj|solutionrelative:src\\barbershop.infrastructure\\dataaccess\\repositories\\invoicesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FD5B1C-C9FD-142E-01EB-3C5D5C28000B}|src\\BarberShop.Domain\\BarberShop.Domain.csproj|c:\\users\\joaog\\onedrive\\desktop\\projetos\\c#\\barbershop\\src\\barbershop.domain\\repositories\\invoices\\iinvoiceswriteonlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FD5B1C-C9FD-142E-01EB-3C5D5C28000B}|src\\BarberShop.Domain\\BarberShop.Domain.csproj|solutionrelative:src\\barbershop.domain\\repositories\\invoices\\iinvoiceswriteonlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9FD5B1C-C9FD-142E-01EB-3C5D5C28000B}|src\\BarberShop.Domain\\BarberShop.Domain.csproj|c:\\users\\joaog\\onedrive\\desktop\\projetos\\c#\\barbershop\\src\\barbershop.domain\\repositories\\invoices\\iinvoicesreadonlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9FD5B1C-C9FD-142E-01EB-3C5D5C28000B}|src\\BarberShop.Domain\\BarberShop.Domain.csproj|solutionrelative:src\\barbershop.domain\\repositories\\invoices\\iinvoicesreadonlyrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C304EEE9-3304-BFC5-EC3D-C12CADAD6478}|src\\BarberShop.API\\BarberShop.API.csproj|c:\\users\\joaog\\onedrive\\desktop\\projetos\\c#\\barbershop\\src\\barbershop.api\\controllers\\billingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C304EEE9-3304-BFC5-EC3D-C12CADAD6478}|src\\BarberShop.API\\BarberShop.API.csproj|solutionrelative:src\\barbershop.api\\controllers\\billingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DependencyInjectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\joaog\\OneDrive\\Desktop\\Projetos\\C#\\BarberShop\\src\\BarberShop.Infrastructure\\DependencyInjectionExtension.cs",
+              "RelativeDocumentMoniker": "src\\BarberShop.Infrastructure\\DependencyInjectionExtension.cs",
+              "ToolTip": "C:\\Users\\joaog\\OneDrive\\Desktop\\Projetos\\C#\\BarberShop\\src\\BarberShop.Infrastructure\\DependencyInjectionExtension.cs",
+              "RelativeToolTip": "src\\BarberShop.Infrastructure\\DependencyInjectionExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:37:32.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoicesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joaog\\OneDrive\\Desktop\\Projetos\\C#\\BarberShop\\src\\BarberShop.Infrastructure\\DataAccess\\Repositories\\InvoicesRepository.cs",
+              "RelativeDocumentMoniker": "src\\BarberShop.Infrastructure\\DataAccess\\Repositories\\InvoicesRepository.cs",
+              "ToolTip": "C:\\Users\\joaog\\OneDrive\\Desktop\\Projetos\\C#\\BarberShop\\src\\BarberShop.Infrastructure\\DataAccess\\Repositories\\InvoicesRepository.cs",
+              "RelativeToolTip": "src\\BarberShop.Infrastructure\\DataAccess\\Repositories\\InvoicesRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:33:25.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInvoicesReadOnlyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joaog\\OneDrive\\Desktop\\Projetos\\C#\\BarberShop\\src\\BarberShop.Domain\\Repositories\\Invoices\\IInvoicesReadOnlyRepository.cs",
+              "RelativeDocumentMoniker": "src\\BarberShop.Domain\\Repositories\\Invoices\\IInvoicesReadOnlyRepository.cs",
+              "ToolTip": "C:\\Users\\joaog\\OneDrive\\Desktop\\Projetos\\C#\\BarberShop\\src\\BarberShop.Domain\\Repositories\\Invoices\\IInvoicesReadOnlyRepository.cs",
+              "RelativeToolTip": "src\\BarberShop.Domain\\Repositories\\Invoices\\IInvoicesReadOnlyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:31:25.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IInvoicesWriteOnlyRepository.cs",
+              "DocumentMoniker": "C:\\Users\\joaog\\OneDrive\\Desktop\\Projetos\\C#\\BarberShop\\src\\BarberShop.Domain\\Repositories\\Invoices\\IInvoicesWriteOnlyRepository.cs",
+              "RelativeDocumentMoniker": "src\\BarberShop.Domain\\Repositories\\Invoices\\IInvoicesWriteOnlyRepository.cs",
+              "ToolTip": "C:\\Users\\joaog\\OneDrive\\Desktop\\Projetos\\C#\\BarberShop\\src\\BarberShop.Domain\\Repositories\\Invoices\\IInvoicesWriteOnlyRepository.cs",
+              "RelativeToolTip": "src\\BarberShop.Domain\\Repositories\\Invoices\\IInvoicesWriteOnlyRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:30:03.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BillingsController.cs",
+              "DocumentMoniker": "C:\\Users\\joaog\\OneDrive\\Desktop\\Projetos\\C#\\BarberShop\\src\\BarberShop.API\\Controllers\\BillingsController.cs",
+              "RelativeDocumentMoniker": "src\\BarberShop.API\\Controllers\\BillingsController.cs",
+              "ToolTip": "C:\\Users\\joaog\\OneDrive\\Desktop\\Projetos\\C#\\BarberShop\\src\\BarberShop.API\\Controllers\\BillingsController.cs",
+              "RelativeToolTip": "src\\BarberShop.API\\Controllers\\BillingsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-05T03:09:08.178Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

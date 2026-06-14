@@ -2,6 +2,7 @@ using CashFlow.API.Filters;
 using CashFlow.API.Middleware;
 using CashFlow.Application;
 using CashFlow.Infrastructure;
+using CashFlow.Infrastructure.Migrations;
 using Scalar.AspNetCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -33,12 +34,16 @@ app.UseAuthorization();
 
 app.MapControllers();
 
+await MigrateDatabase();
+
 app.Run();
 
-//{
-//    "title": "Codex",
-//  "descriptioon": "Assinatura do Codex (GPT)",
-//  "date": "2021-05-21T14:30:00",
-//  "amount": "91",
-//  "paymentType": 1
-//}
+async Task MigrateDatabase()
+{
+    await using var scope = app.Services.CreateAsyncScope();
+    await DatabaseMigration.MigrateDatabase(scope.ServiceProvider);
+}
+
+// dotnet tool install--global dotnet-ef <- Rodar uma primeira vez no terminal
+// dotnet-ef migrations add InitialMigration --project CashFlow.Infrastructure --startup-project CashFlow.API
+// dotnet-ef database update --project CashFlow.Infrastructure --startup-project CashFlow.API <- Pode ser feito pela API (MigrateDatabase)

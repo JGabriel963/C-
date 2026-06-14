@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "trZ8Z6vMlvs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaog\\OneDrive\\Desktop\\Projetos\\C#\\BarberShop\\src\\BarberShop.Application\\BarberShop.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.extensions.configuration\\11.0.0-preview.4.26230.115\\microsoft.extensions.configuration.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\11.0.0-preview.4.26230.115\\microsoft.extensions.configuration.abstractions.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\11.0.0-preview.4.26230.115\\microsoft.extensions.dependencyinjection.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\11.0.0-preview.4.26230.115\\microsoft.extensions.dependencyinjection.abstractions.11.0.0-preview.4.26230.115.nupkg.sha512",
+    "C:\\Users\\joaog\\.nuget\\packages\\microsoft.extensions.primitives\\11.0.0-preview.4.26230.115\\microsoft.extensions.primitives.11.0.0-preview.4.26230.115.nupkg.sha512"
+  ],
+  "logs": []
+}

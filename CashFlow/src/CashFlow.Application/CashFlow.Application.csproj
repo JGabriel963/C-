@@ -7,15 +7,37 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="UseCase\Expenses\Reports\Pdf\Fonts\Raleway-Black.ttf" />
+    <None Remove="UseCase\Expenses\Reports\Pdf\Fonts\Raleway-Regular.ttf" />
+    <None Remove="UseCase\Expenses\Reports\Pdf\Fonts\WorkSans-Black.ttf" />
+    <None Remove="UseCase\Expenses\Reports\Pdf\Fonts\WorkSans-Regular.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EmbeddedResource Include="UseCase\Expenses\Reports\Pdf\Fonts\Raleway-Black.ttf" />
+    <EmbeddedResource Include="UseCase\Expenses\Reports\Pdf\Fonts\Raleway-Regular.ttf" />
+    <EmbeddedResource Include="UseCase\Expenses\Reports\Pdf\Fonts\WorkSans-Black.ttf" />
+    <EmbeddedResource Include="UseCase\Expenses\Reports\Pdf\Fonts\WorkSans-Regular.ttf" />
+  </ItemGroup>
+
+  <ItemGroup>
     <PackageReference Include="AutoMapper" Version="16.1.1" />
+    <PackageReference Include="ClosedXML" Version="0.105.0" />
     <PackageReference Include="FluentValidation" Version="12.1.1" />
     <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="11.0.0-preview.4.26230.115" />
+    <PackageReference Include="PDFsharp-MigraDoc" Version="7.0.0-preview-1" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\CashFlow.Communication\CashFlow.Communication.csproj" />
     <ProjectReference Include="..\CashFlow.Domain\CashFlow.Domain.csproj" />
     <ProjectReference Include="..\CashFlow.Exception\CashFlow.Exception.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="UseCase\Expenses\Reports\Pdf\Logo\profile.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
   </ItemGroup>
 
 </Project>

@@ -1,0 +1,12 @@
+C:\Users\joaog\OneDrive\Desktop\Projetos\C#\BarberShop\src\BarberShop.Communication\bin\Debug\net10.0\BarberShop.Communication.deps.json
+C:\Users\joaog\OneDrive\Desktop\Projetos\C#\BarberShop\src\BarberShop.Communication\bin\Debug\net10.0\BarberShop.Communication.dll
+C:\Users\joaog\OneDrive\Desktop\Projetos\C#\BarberShop\src\BarberShop.Communication\bin\Debug\net10.0\BarberShop.Communication.pdb
+C:\Users\joaog\OneDrive\Desktop\Projetos\C#\BarberShop\src\BarberShop.Communication\obj\Debug\net10.0\BarberShop.Communication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaog\OneDrive\Desktop\Projetos\C#\BarberShop\src\BarberShop.Communication\obj\Debug\net10.0\BarberShop.Communication.AssemblyInfoInputs.cache
+C:\Users\joaog\OneDrive\Desktop\Projetos\C#\BarberShop\src\BarberShop.Communication\obj\Debug\net10.0\BarberShop.Communication.AssemblyInfo.cs
+C:\Users\joaog\OneDrive\Desktop\Projetos\C#\BarberShop\src\BarberShop.Communication\obj\Debug\net10.0\BarberShop.Communication.csproj.CoreCompileInputs.cache
+C:\Users\joaog\OneDrive\Desktop\Projetos\C#\BarberShop\src\BarberShop.Communication\obj\Debug\net10.0\BarberShop.Communication.sourcelink.json
+C:\Users\joaog\OneDrive\Desktop\Projetos\C#\BarberShop\src\BarberShop.Communication\obj\Debug\net10.0\BarberShop.Communication.dll
+C:\Users\joaog\OneDrive\Desktop\Projetos\C#\BarberShop\src\BarberShop.Communication\obj\Debug\net10.0\refint\BarberShop.Communication.dll
+C:\Users\joaog\OneDrive\Desktop\Projetos\C#\BarberShop\src\BarberShop.Communication\obj\Debug\net10.0\BarberShop.Communication.pdb
+C:\Users\joaog\OneDrive\Desktop\Projetos\C#\BarberShop\src\BarberShop.Communication\obj\Debug\net10.0\ref\BarberShop.Communication.dll

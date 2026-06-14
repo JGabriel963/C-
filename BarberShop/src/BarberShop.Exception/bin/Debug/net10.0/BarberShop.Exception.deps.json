@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "BarberShop.Exception/1.0.0": {
+        "runtime": {
+          "BarberShop.Exception.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BarberShop.Exception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
