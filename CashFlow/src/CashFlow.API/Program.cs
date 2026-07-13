@@ -1,6 +1,8 @@
 using CashFlow.API.Filters;
 using CashFlow.API.Middleware;
+using CashFlow.API.Token;
 using CashFlow.Application;
+using CashFlow.Domain.Security.Tokens;
 using CashFlow.Infrastructure;
 using CashFlow.Infrastructure.Extensions;
 using CashFlow.Infrastructure.Migrations;
@@ -46,6 +48,9 @@ builder.Services.AddRouting(option => option.LowercaseUrls = true);
 
 builder.Services.AddInfrastructure(builder.Configuration);
 builder.Services.AddApplication();
+
+builder.Services.AddHttpContextAccessor();
+builder.Services.AddScoped<ITokenProvider, HttpContextTokenValue>();
 
 builder.Services.AddAuthentication(config =>
 {
