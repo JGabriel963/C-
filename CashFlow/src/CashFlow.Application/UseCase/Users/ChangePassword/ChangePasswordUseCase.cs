@@ -10,7 +10,7 @@ using FluentValidation.Results;
 
 namespace CashFlow.Application.UseCase.Users.ChangePassword;
 
-internal class ChangePasswordUseCase : IChangePasswordUseCase
+public class ChangePasswordUseCase : IChangePasswordUseCase
 {
     private readonly ILoggedUser _loggedUser;
     private readonly IUserUpdateOnlyRepository _repository;
